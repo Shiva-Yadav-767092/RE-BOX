@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #FAF8F5;
+    color: #22252A;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+
+  /* Custom subtle scrollbar */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #FAF8F5;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #D8D2C6;
+    border-radius: 9999px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #B8B0A2;
+  }
+}
+
+/* Subtle transitions without flashy animations */
+.subtle-fade {
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+/* Range input styling for Before/After slider */
+input[type="range"]::-webkit-slider-thumb {
+  appearance: none;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: #FFFFFF;
+  border: 2px solid #2E6F40;
+  cursor: ew-resize;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+
+input[type="range"]::-moz-range-thumb {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: #FFFFFF;
+  border: 2px solid #2E6F40;
+  cursor: ew-resize;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}

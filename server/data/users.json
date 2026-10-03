@@ -1,0 +1,17 @@
+[
+  {
+    "id": "usr_google_default",
+    "name": "Alex Green",
+    "email": "alex.green@gmail.com",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+    "provider": "google",
+    "joinedAt": "2026-09-03T02:08:40.983Z",
+    "bio": "Upcycling enthusiast & zero-waste home maker.",
+    "stats": {
+      "itemsUpcycled": 6,
+      "co2AvoidedKg": 5.4,
+      "projectsCompleted": 3,
+      "hoursCrafted": 8.5
+    }
+  }
+]

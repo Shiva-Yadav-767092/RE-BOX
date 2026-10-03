@@ -1,0 +1,218 @@
+[
+  {
+    "id": "proj_1790963616876_2zvadk",
+    "createdAt": "2026-10-02T17:53:36.876Z",
+    "completedAt": null,
+    "completedStepsCount": 0,
+    "totalStepsCount": 4,
+    "originalObject": "A standard medium shipping delivery box.",
+    "material": "Multi-ply Kraft Corrugated Fiberboard",
+    "condition": "Dry, Stiff, Structural Integrity High",
+    "newProduct": "Geometric Hexagon Wall Shelf",
+    "tagline": "Lightweight honeycomb display shelf for succulents and trinkets.",
+    "difficulty": "Medium",
+    "estimatedTime": "45 mins",
+    "status": "In Progress",
+    "imageBefore": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=700&q=80",
+    "imageAfter": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=600&q=80",
+    "materialsNeeded": [
+      "Cardboard box",
+      "Ruler and angle guide (60°)",
+      "Hot glue or PVA glue",
+      "Woodgrain contact paper or matte paint"
+    ],
+    "safetyNotes": [
+      "Ensure hot glue guns rest on protective silicone mats."
+    ],
+    "steps": [
+      {
+        "step": 1,
+        "title": "Cut 6 Equal Length Slats",
+        "text": "Cut six 12cm long by 8cm deep cardboard rectangles with 60-degree beveled ends.",
+        "completed": false
+      },
+      {
+        "step": 2,
+        "title": "Double Layer for Strength",
+        "text": "Cut duplicate slats and glue face-to-face to create rigid 6mm composite struts.",
+        "completed": false
+      },
+      {
+        "step": 3,
+        "title": "Form Hexagon Ring",
+        "text": "Join corners with wood glue, holding shape with painter tape until dry.",
+        "completed": false
+      },
+      {
+        "step": 4,
+        "title": "Mounting Plate",
+        "text": "Add a small triangle card bracket at top corner for hanging on wall hook.",
+        "completed": false
+      }
+    ],
+    "userNotes": ""
+  },
+  {
+    "id": "proj_1790963499891_c19x88",
+    "createdAt": "2026-10-02T17:51:39.891Z",
+    "completedAt": "2026-10-02T17:51:39.919Z",
+    "completedStepsCount": 1,
+    "totalStepsCount": 2,
+    "originalObject": "1L Glass Pickle Jar",
+    "material": "Soda-Lime Glass",
+    "condition": "Clean, Airtight",
+    "newProduct": "Ambient Bedside Fairy Lantern",
+    "tagline": "Warm copper wire filament lantern.",
+    "difficulty": "Easy",
+    "estimatedTime": "15 mins",
+    "status": "Completed",
+    "imageBefore": "https://images.unsplash.com/photo-1517849845537-4d257902454a?auto=format&fit=crop&w=600&q=80",
+    "imageAfter": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=600&q=80",
+    "materialsNeeded": [
+      "Glass jar",
+      "Copper fairy LED wire",
+      "Double-sided tape"
+    ],
+    "safetyNotes": [
+      "Keep battery contacts dry"
+    ],
+    "steps": [
+      {
+        "step": 1,
+        "title": "Tape battery to lid",
+        "text": "Secure battery box inside cap.",
+        "completed": true
+      },
+      {
+        "step": 2,
+        "title": "Coil wire inside",
+        "text": "Evenly disperse copper wire.",
+        "completed": false
+      }
+    ],
+    "userNotes": "Using this on my study desk.",
+    "updatedAt": "2026-10-02T17:51:39.919Z"
+  },
+  {
+    "id": "proj_seed_01",
+    "originalObject": "1L Clear PET Plastic Bottle",
+    "material": "PET Plastic (Code 1)",
+    "condition": "Reusable, Clean",
+    "newProduct": "Self-Watering Botanical Planter",
+    "tagline": "Sub-irrigation planter that keeps moisture balanced for herbs.",
+    "difficulty": "Easy",
+    "estimatedTime": "20–30 mins",
+    "status": "Completed",
+    "createdAt": "2026-09-29T17:45:27.399Z",
+    "completedAt": "2026-09-30T17:45:27.400Z",
+    "imageBefore": "https://images.unsplash.com/photo-1598887142487-3c854d51d2c7?auto=format&fit=crop&w=600&q=80",
+    "imageAfter": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=600&q=80",
+    "materialsNeeded": [
+      "Empty 1L plastic bottle",
+      "Cotton wick or clean strip of old T-shirt (20cm)",
+      "Potting soil mix",
+      "Small basil or mint seedling",
+      "Box cutter or kitchen scissors"
+    ],
+    "safetyNotes": [
+      "Smooth cut plastic edges with sandpaper or cover with paper tape to prevent sharp scrapes.",
+      "Always cut away from yourself on a stable cutting board."
+    ],
+    "steps": [
+      {
+        "step": 1,
+        "title": "Clean & Delabel",
+        "text": "Wash bottle thoroughly with warm soapy water and peel off adhesive labels using warm water soak.",
+        "completed": true
+      },
+      {
+        "step": 2,
+        "title": "Measure & Cut in Half",
+        "text": "Cut the bottle horizontally approximately 10cm from the top neck, creating an inverted funnel top and water reservoir base.",
+        "completed": true
+      },
+      {
+        "step": 3,
+        "title": "Thread the Wick",
+        "text": "Drill or pierce a 5mm hole in the bottle cap. Thread the cotton strip halfway through so it wicks moisture upwards.",
+        "completed": true
+      },
+      {
+        "step": 4,
+        "title": "Invert & Assemble",
+        "text": "Screw the cap back on and invert the funnel cone into the lower base reservoir.",
+        "completed": true
+      },
+      {
+        "step": 5,
+        "title": "Plant & Hydrate",
+        "text": "Fill the top chamber with potting soil, plant your herb seedling, and fill bottom reservoir with fresh water.",
+        "completed": true
+      }
+    ],
+    "completedStepsCount": 5,
+    "totalStepsCount": 5,
+    "userNotes": "Placed on kitchen windowsill. Basil started sprouting new leaves after 4 days! No watering needed for a week."
+  },
+  {
+    "id": "proj_seed_02",
+    "originalObject": "Corrugated Shipping Box (Medium)",
+    "material": "Recycled Kraft Corrugated Cardboard",
+    "condition": "Intact, Dry",
+    "newProduct": "Modular Desktop Stationery & Cable Organizer",
+    "tagline": "Sturdy tiered compartment organizer with bespoke slots.",
+    "difficulty": "Medium",
+    "estimatedTime": "35–45 mins",
+    "status": "In Progress",
+    "createdAt": "2026-10-01T17:45:27.400Z",
+    "completedAt": null,
+    "imageBefore": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=600&q=80",
+    "imageAfter": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=600&q=80",
+    "materialsNeeded": [
+      "1 Corrugated shipping box",
+      "Utility knife & metal ruler",
+      "Non-toxic craft glue or hot glue",
+      "Kraft paper tape",
+      "Pencil"
+    ],
+    "safetyNotes": [
+      "Use a cutting mat to protect work surfaces.",
+      "Keep spare fingers well behind the metal ruler when scoring."
+    ],
+    "steps": [
+      {
+        "step": 1,
+        "title": "Flatten & Disassemble",
+        "text": "Gently slice along taped seams to lay the cardboard box flat into workable panels.",
+        "completed": true
+      },
+      {
+        "step": 2,
+        "title": "Measure Base & Outer Walls",
+        "text": "Mark a 24x16cm base plate and 8cm high outer perimeter walls.",
+        "completed": true
+      },
+      {
+        "step": 3,
+        "title": "Score Dividers",
+        "text": "Cut 4 internal slot dividers with interlocking half-notches (comb joint style).",
+        "completed": true
+      },
+      {
+        "step": 4,
+        "title": "Assemble Grid",
+        "text": "Interlock the internal grid pieces and affix them to the base plate using craft glue.",
+        "completed": false
+      },
+      {
+        "step": 5,
+        "title": "Edge Finishing",
+        "text": "Cover exposed flute edges with kraft paper tape for a clean, furniture-grade finish.",
+        "completed": false
+      }
+    ],
+    "completedStepsCount": 3,
+    "totalStepsCount": 5,
+    "userNotes": "Finished the internal interlocking grid. Just need to glue the outer rim and tape the raw edges."
+  }
+]
